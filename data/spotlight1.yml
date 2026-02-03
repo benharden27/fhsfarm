@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Food Justice for All"
+content: |
+  Food Justice means making sure that everyone can grow, access and eat nutritious, sustainable and cultutrally-appropriate foods. At FHS we grow food to feed ourselves and our communiuty and work with experts throughout the region to understand how to make a difference.
+button: 
+  label : "Get involved"
+  link : "#classes"
+image: "images/spotlight01.jpg"

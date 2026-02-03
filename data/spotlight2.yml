@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "What we do"
+content: |
+  In the Food Justice Program you can take classes to level-up your growing game and talk to commiunity members about the challenges we are facing and work to find solutions
+button: 
+  label: "Get involved"
+  link: "#classes"
+image: "images/spotlight02.jpg"

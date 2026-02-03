@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Food Justice @ FHS"
+subtitle: |
+  Growing Food for a Fair Future
+content : |
+  We are the next generation of growers, environmentalists and social justice leaders who take action for a better food future.
+button:
+  label : "Want to learn more?"
+  link : "#first"
+image : "images/banner.jpg"
+

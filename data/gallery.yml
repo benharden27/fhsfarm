@@ -1,0 +1,56 @@
+title: "What's going on"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  There's something for everyone in the Food Justice Program
+pictures:
+  - title: "Greenhouse 1"
+    content: "Main growing site for students in the intro class"
+    image: "images/gallery/fulls/01.jpg"
+    thumb: "images/gallery/thumbs/01.jpg"
+
+  - title: "Food Donations"
+    content: "We give food to the Cafeteria, Culinary Program, and the Falmouth Service Center"
+    image: "images/gallery/fulls/02.jpg"
+    thumb: "images/gallery/thumbs/02.jpg"
+
+  - title: "Veg Cups"
+    content: "Cups of fresh produce from the farm in the Caf"
+    image: "images/gallery/fulls/03.jpg"
+    thumb: "images/gallery/thumbs/03.jpg"
+
+  - title: "Eating in Class"
+    content: "Working with Chef Laura to turn our food into delcious meals"
+    image: "images/gallery/fulls/04.jpg"
+    thumb: "images/gallery/thumbs/04.jpg"
+
+  - title: "Orchard"
+    content: "Students in Spring 2025 planting the apple orchard"
+    image: "images/gallery/fulls/05.jpg"
+    thumb: "images/gallery/thumbs/05.jpg"
+
+  - title: "Greenhouse 2"
+    content: The main site for students in Level 2 of the program and above"
+    image: "images/gallery/fulls/06.jpg"
+    thumb: "images/gallery/thumbs/06.jpg"   
+
+  - title: "Donations to the Service Center"
+    content: "Sending off our produce to feed local families"
+    image: "images/gallery/fulls/07.jpg"
+    thumb: "images/gallery/thumbs/07.jpg"
+
+  - title: "Wampanoag Foodways"
+    content: "Working with Kitty Hendricks to learn about (and eat!) Wampanoag food"
+    image: "images/gallery/fulls/08.jpg"
+    thumb: "images/gallery/thumbs/08.jpg"
+
+  - title: "Hot Sauce"
+    content: "The inaugral batch of FHS Hot Sauce"
+    image: "images/gallery/fulls/09.jpg"
+    thumb: "images/gallery/thumbs/09.jpg"
+
+
+  - title: "Clipper Closet"
+    content: "Stocking the fridge with fresh produce for FHS families"
+    image: "images/gallery/fulls/10.jpg"
+    thumb: "images/gallery/thumbs/10.jpg"
+    

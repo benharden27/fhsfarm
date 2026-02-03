@@ -1,0 +1,22 @@
+title : "Classes in the Pathway"
+id: "classes"
+content: |
+  Take the following classes at FHS to complete the pathway and earn industry recognized credentials
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Level 1: Intro to Growing Food"
+    content : "Learn how to grow food and how it can help us solve challenges in our society"
+    style : "style2 major fa-seedling"
+
+  # feature item loop
+  - name : "Level 2: Farming For Social Change"
+    content : "Level-up your skills in a larger farm site and work with community members to act on Food Justice projects"
+    style : "solid style2 major fa-leaf"
+    
+  # feature item loop
+  - name : "Level 3: School Farm Management"
+    content : "Take control of the farm to learn about crop planning and food distribution for a fairer future."
+    style : "solid style2 major fa-tractor"
+    
+  

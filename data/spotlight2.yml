@@ -1,8 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "What we do"
+title : "What Students Say"
 content: |
-  In the Food Justice Program you can take classes to level-up your growing game and talk to commiunity members about the challenges we are facing and work to find solutions
+  <blockquote>Being a part of the Food Justice Pathway is really hands-on. Not only are you getting experience in agriculture but you're also learning to open your mind to different aspects of the world around you. It's a very different experience from the academic part of school - I highly recommend it. </blockquote>
+  <blockquote>I like the joy I get from watching what I plant grow. </blockquote>
+   <blockquote>I like the balance of hands on learning and learning in class about food justice</blockquote>
 button: 
   label: "Get involved"
   link: "#classes"

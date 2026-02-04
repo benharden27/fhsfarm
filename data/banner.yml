@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Food Justice @ FHS"
+title : "FHS Food Justice"
 subtitle: |
   Growing Food for a Fair Future
 content : |
@@ -9,4 +9,4 @@ button:
   label : "Want to learn more?"
   link : "#first"
 image : "images/banner.jpg"
-
+logo : "images/ctelogo.png"

@@ -19,4 +19,6 @@ items:
     content : "Take control of the farm to learn about crop planning and food distribution for a fairer future."
     style : "solid style2 major fa-tractor"
     
-  
+button: 
+  label : "Get more info..."
+  link : "#form"

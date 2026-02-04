@@ -1,6 +1,10 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
-    <div class="content">
+<div class="content">
+        {{ with .logo }}<img src="{{.}}" alt="CTE Logo" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;"/>{{ end }}
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}

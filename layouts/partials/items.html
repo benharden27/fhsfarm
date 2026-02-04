@@ -7,6 +7,9 @@
             {{ range .items }}
                 {{ partial "item" . }}
             {{ end }}
-        </div>
+	</div>
+	{{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
     </div>
 </section>
